@@ -10,8 +10,8 @@ API Server for testing
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/jeremy-cleland/basic-api-server/actions)
-- Prod [back-end server URL](https://basic-api-server-buy3.onrender.com)
+- [GitHub Actions ci/cd](https://github.com/Jeremy-Cleland/api-server/actions)
+- Prod [back-end server URL](https://api-server-osek.onrender.com)
 
 ### Setup
 
